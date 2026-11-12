@@ -42,7 +42,7 @@ window.GIFT_CONFIG = {
   // Không dùng dấu ` và dấu \ trong thư.
   letter: `Dear Bảo Liên,
 Hôm nay là một ngày thật đặc biệt anh chúc em thật nhiều sức khỏe luôn vui vẻ và hạnh phúc nhaaa.
-Đừng để mình buồn nhiều quá nha có gì buồn thì nói anh nha.
+Đừng để bản thân mình buồn nha có gì buồn thì nói anh nha.
 Anh không chắc được lúc nào cũng có thể an ủi em được nhưng nếu có thể anh sẽ luôn cố gắng để có mặt bên em
 Vì thế có chuyện gì buồn thì kể anh nhaa mà anh nghĩ tốt nhất là không có chuyện buồn luôn thì tốt hơn :3
 Sinh nhật vui vẻ nha em
